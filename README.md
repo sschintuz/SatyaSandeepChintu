@@ -23,14 +23,6 @@ I believe in the power of data to transform businesses. My approach involves:
 4. Creating impactful visualizations to communicate insights
 5. Implementing end-to-end data solutions
 
-## 🛠️ Technologies & Tools
-
-- Python, R, SQL
-- Pandas, NumPy, SciPy
-- Scikit-learn, TensorFlow, PyTorch
-- Tableau, Power BI
-- Apache Spark, Hadoop
-- Git, Docker
 
 ## 📚 Continuous Learning
 
